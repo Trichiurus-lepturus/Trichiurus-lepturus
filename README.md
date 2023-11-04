@@ -1,0 +1,3 @@
+- 👋 Trichiurus-lepturus
+- 🌱 Currently learning Lisp
+- 📫 host unreachable
