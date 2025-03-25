@@ -1,2 +1,2 @@
 - 👋 Trichiurus-lepturus
-- 🌱 Currently learning asyncing
+- 🌱 Currently learning compilation principles
