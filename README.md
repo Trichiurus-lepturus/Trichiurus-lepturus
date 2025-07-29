@@ -1,2 +1,3 @@
 - 👋 Trichiurus-lepturus
 - 🌱 Currently learning compilation principles
+- ☯️ Currently learning Common Lisp
